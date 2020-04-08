@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0eafdd3-089d-4ed6-bd0f-486abd983c32" name="Default Changelist" comment="" />
+    <list default="true" id="f0eafdd3-089d-4ed6-bd0f-486abd983c32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_girl_tutorial/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_girl_tutorial/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_girl_tutorial/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_girl_tutorial/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_girl_tutorial/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +20,18 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aEQOP7XzfEhaX2VJT9H4iwOE9A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,7 +39,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -31,7 +54,7 @@
         <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\s7532\AppData\Local\Anaconda\miniconda\envs\django\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysite" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -57,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586298241443</updated>
-      <workItem from="1586298244720" duration="2710000" />
+      <workItem from="1586298244720" duration="4123000" />
+      <workItem from="1586320202189" duration="664000" />
     </task>
     <servers />
   </component>
@@ -65,45 +89,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586298995984">
+    <state x="416" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586319786034">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="416" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586298995984" />
+    <state x="416" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586319786034" />
     <state x="679" y="167" key="#django_girl_tutorial" timestamp="1586298832657">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="679" y="167" key="#django_girl_tutorial/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586298832657" />
-    <state x="679" y="167" key="#mysite" timestamp="1586301058483">
+    <state x="679" y="167" key="#mysite" timestamp="1586320863433">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="679" y="167" key="#mysite/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586301058483" />
-    <state x="741" y="315" key="FileChooserDialogImpl" timestamp="1586298280675">
+    <state x="679" y="167" key="#mysite/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586320863433" />
+    <state x="741" y="315" key="FileChooserDialogImpl" timestamp="1586320849915">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="741" y="315" key="FileChooserDialogImpl/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586298280675" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586301059721">
+    <state x="741" y="315" key="FileChooserDialogImpl/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586320849915" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1586319788638">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586301059721" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586301059721">
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586319788638" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1586319788637">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586301059721" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586301059721">
+    <state width="1878" height="282" key="GridCell.Tab.0.center/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586319788637" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1586319788637">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586301059721" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586301059721">
+    <state width="1878" height="282" key="GridCell.Tab.0.left/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586319788637" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1586319788637">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586301059721" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586319788637" />
     <state x="462" y="202" key="SettingsEditor" timestamp="1586300689640">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="462" y="202" key="SettingsEditor/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586300689640" />
-    <state x="653" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1586298245101">
+    <state x="653" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1586320201950">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="653" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586298245101" />
+    <state x="653" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586320201950" />
+    <state x="766" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586320205155">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="766" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040/-2560.0.2560.1040@0.40.1920.1040" timestamp="1586320205155" />
   </component>
 </project>
